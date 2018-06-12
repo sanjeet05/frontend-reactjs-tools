@@ -1,0 +1,20 @@
+.task_title {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 10px; 
+}
+
+.divider {
+  height: 1px;
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid #e5e5e5; 
+}
+
+.img_item {
+  max-width: 100%;
+  display: inline-block;
+  margin: 8px 10px;
+  vertical-align: top; 
+}
